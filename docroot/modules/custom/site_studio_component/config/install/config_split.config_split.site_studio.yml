@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies: {  }
+id: site_studio
+label: 'Site Studio'
+description: ''
+weight: 0
+stackable: false
+storage: database
+folder: ''
+module: {  }
+theme: {  }
+complete_list:
+  - 'cohesion.*'
+  - 'cohesion_*'
+partial_list: {  }

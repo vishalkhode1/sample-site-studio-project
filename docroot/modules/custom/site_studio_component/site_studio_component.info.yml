@@ -1,0 +1,16 @@
+name: "Site Studio"
+description: "Provides custom site studio component"
+type: module
+core_version_requirement: ">=9.4"
+dependencies:
+  - cohesion
+  - cohesion_base_styles
+  - cohesion_custom_styles
+  - cohesion_elements
+  - cohesion_style_guide
+  - cohesion_style_helpers
+  - cohesion_sync
+  - cohesion_templates
+  - cohesion_website_settings
+  - config_ignore:config_ignore
+  - config_split:config_split

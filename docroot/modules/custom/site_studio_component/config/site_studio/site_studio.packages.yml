@@ -1,0 +1,7 @@
+-
+  type: default_module_package
+  source:
+    module_name: site_studio_component
+    path: config/pack_basic_component_package
+  options:
+    extra-validation: false

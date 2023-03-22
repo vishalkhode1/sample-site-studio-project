@@ -1,0 +1,14 @@
+uuid: 31cac001-fa26-4a32-b39f-fd44700eb378
+langcode: en
+status: true
+dependencies: {  }
+label: 'Basic Component'
+id: cpt_cat_test_category
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: false
+selectable: true
+class: category-9
+weight: 1
