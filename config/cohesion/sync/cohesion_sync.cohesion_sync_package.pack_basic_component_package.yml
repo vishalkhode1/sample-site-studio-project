@@ -1,0 +1,212 @@
+uuid: 9936844b-46a2-4cbb-a539-bf7da901e733
+langcode: en
+status: true
+dependencies: {  }
+id: pack_basic_component_package
+label: 'Basic Component Package'
+description: ''
+excluded_entity_types: '[]'
+settings: |
+  {
+      "31cac001-fa26-4a32-b39f-fd44700eb378": {
+          "type": "cohesion_component_category",
+          "items": {
+              "31cac001-fa26-4a32-b39f-fd44700eb378": {
+                  "type": "cohesion_component_category"
+              }
+          },
+          "checked": true
+      },
+      "b8101234-5cbb-4488-a42f-b8987c427c55": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "b8101234-5cbb-4488-a42f-b8987c427c55": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "ecb70d4c-345e-49ac-820d-8371adec2dc3": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "ecb70d4c-345e-49ac-820d-8371adec2dc3": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "41cbed2d-302c-4157-a65d-adf8b4cf3f89": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "41cbed2d-302c-4157-a65d-adf8b4cf3f89": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "a5be1c53-4f53-4607-8f2d-fc89188af04a": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "a5be1c53-4f53-4607-8f2d-fc89188af04a": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "ceb3de62-4988-4cec-b1be-aeaaa1dc1dea": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "ceb3de62-4988-4cec-b1be-aeaaa1dc1dea": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "2d30bd8d-61d4-471a-bdf3-663a29707131": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "2d30bd8d-61d4-471a-bdf3-663a29707131": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "00364bfb-224b-4bb3-be8c-aad254e11d7b": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "00364bfb-224b-4bb3-be8c-aad254e11d7b": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "bb0fc5e4-1652-42fa-8687-bf2149803cc1": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "bb0fc5e4-1652-42fa-8687-bf2149803cc1": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "fa28c609-df3d-4bf2-84a5-5879e294c055": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "fa28c609-df3d-4bf2-84a5-5879e294c055": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "e99da269-0196-4679-9766-92f9fe05e5b1": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "e99da269-0196-4679-9766-92f9fe05e5b1": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "305c413a-47a0-4e1f-9a15-6f40d7a4c7d3": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "305c413a-47a0-4e1f-9a15-6f40d7a4c7d3": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "63dfe4f8-5426-4b5b-ac81-718c2dc97c1e": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "63dfe4f8-5426-4b5b-ac81-718c2dc97c1e": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "ef952bba-d0fe-4f7e-b683-968dd0bf784c": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "ef952bba-d0fe-4f7e-b683-968dd0bf784c": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "4e24b6b1-803d-4608-a437-f26037b543db": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "4e24b6b1-803d-4608-a437-f26037b543db": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "06e03ecf-1a1a-463b-8e7b-0444ec84897b": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "06e03ecf-1a1a-463b-8e7b-0444ec84897b": {
+                  "type": "cohesion_base_styles"
+              }
+          },
+          "checked": true
+      },
+      "0142f8ff-7972-4bd4-837c-93a9bfef2377": {
+          "type": "cohesion_component",
+          "items": {
+              "0142f8ff-7972-4bd4-837c-93a9bfef2377": {
+                  "type": "cohesion_component"
+              },
+              "31cac001-fa26-4a32-b39f-fd44700eb378": {
+                  "type": "cohesion_component_category"
+              }
+          },
+          "checked": true
+      },
+      "989cabc2-a798-49a3-a788-55f875f0eef9": {
+          "type": "cohesion_master_templates",
+          "items": {
+              "989cabc2-a798-49a3-a788-55f875f0eef9": {
+                  "type": "cohesion_master_templates"
+              }
+          },
+          "checked": true
+      },
+      "9a836f37-8a34-4ddc-b769-9721e34c17f1": {
+          "type": "cohesion_website_settings",
+          "items": {
+              "9a836f37-8a34-4ddc-b769-9721e34c17f1": {
+                  "type": "cohesion_website_settings"
+              }
+          },
+          "checked": true
+      },
+      "06f97869-fd2c-4775-acd1-cfcf4fda6716": {
+          "type": "cohesion_website_settings",
+          "items": {
+              "06f97869-fd2c-4775-acd1-cfcf4fda6716": {
+                  "type": "cohesion_website_settings"
+              }
+          },
+          "checked": true
+      },
+      "66fb3153-e8b8-4c7c-9fd4-0389d93579bd": {
+          "type": "cohesion_website_settings",
+          "items": {
+              "66fb3153-e8b8-4c7c-9fd4-0389d93579bd": {
+                  "type": "cohesion_website_settings"
+              }
+          },
+          "checked": true
+      },
+      "32907155-c530-4f0d-ac55-426f6fa412c1": {
+          "type": "cohesion_font_stack",
+          "items": {
+              "32907155-c530-4f0d-ac55-426f6fa412c1": {
+                  "type": "cohesion_font_stack"
+              }
+          },
+          "checked": true
+      }
+  }

@@ -1,0 +1,19 @@
+uuid: 9a836f37-8a34-4ddc-b769-9721e34c17f1
+langcode: en
+status: true
+dependencies: {  }
+label: 'Base unit settings'
+id: base_unit_settings
+json_values: |
+  {
+      "baseFontSize": {
+          "value": 16
+      },
+      "baseFontSizeEnable": true,
+      "defaultUnitConversion": "rem"
+  }
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: true
+selectable: true

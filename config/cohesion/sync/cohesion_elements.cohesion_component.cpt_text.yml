@@ -1,0 +1,168 @@
+uuid: 0142f8ff-7972-4bd4-837c-93a9bfef2377
+langcode: en
+status: true
+dependencies:
+  config:
+    - cohesion_elements.cohesion_component_category.cpt_cat_test_category
+label: Text
+id: cpt_text
+json_values: |
+  {
+      "canvas": [
+          {
+              "type": "item",
+              "uid": "wysiwyg",
+              "title": "WYSIWYG",
+              "status": {
+                  "collapsed": true
+              },
+              "uuid": "42cad276-1a95-49a0-b067-db81aa899772",
+              "parentUid": "root",
+              "children": []
+          }
+      ],
+      "componentForm": [
+          {
+              "type": "form-container",
+              "uid": "form-tab-container",
+              "title": "Tab container",
+              "status": {
+                  "collapsed": false
+              },
+              "options": {
+                  "formBuilder": true
+              },
+              "uuid": "d7d3fc37-83b8-4e21-a35e-259e98d95915",
+              "parentUid": "root",
+              "children": [
+                  {
+                      "type": "form-container",
+                      "uid": "form-tab-item",
+                      "title": "Tab item",
+                      "status": {
+                          "collapsed": false
+                      },
+                      "options": {
+                          "formBuilder": true
+                      },
+                      "uuid": "b6be7103-dde9-4b31-9d96-1fbe94b0cdf1",
+                      "parentUid": "form-tab-container",
+                      "children": [
+                          {
+                              "type": "form-container",
+                              "uid": "form-section",
+                              "title": "Field group",
+                              "status": {
+                                  "collapsed": false
+                              },
+                              "options": {
+                                  "formBuilder": true
+                              },
+                              "uuid": "d298975a-0288-4545-ac4c-2ec837baade2",
+                              "parentUid": "form-tab-item",
+                              "children": [
+                                  {
+                                      "type": "form-field",
+                                      "uid": "form-wysiwyg",
+                                      "title": "WYSIWYG",
+                                      "translate": true,
+                                      "status": {
+                                          "collapsed": false
+                                      },
+                                      "uuid": "0946d83d-77e4-4970-8915-d932fca3bd8e",
+                                      "parentUid": "form-section",
+                                      "children": []
+                                  }
+                              ]
+                          }
+                      ]
+                  }
+              ]
+          }
+      ],
+      "mapper": {
+          "42cad276-1a95-49a0-b067-db81aa899772": {},
+          "b6be7103-dde9-4b31-9d96-1fbe94b0cdf1": {},
+          "d298975a-0288-4545-ac4c-2ec837baade2": {},
+          "0946d83d-77e4-4970-8915-d932fca3bd8e": {}
+      },
+      "model": {
+          "d7d3fc37-83b8-4e21-a35e-259e98d95915": {
+              "settings": {
+                  "type": "cohTabContainer",
+                  "title": "Tab container",
+                  "responsiveMode": true
+              }
+          },
+          "b6be7103-dde9-4b31-9d96-1fbe94b0cdf1": {
+              "settings": {
+                  "type": "cohTabItem",
+                  "title": "Content",
+                  "breakpointIcon": ""
+              }
+          },
+          "d298975a-0288-4545-ac4c-2ec837baade2": {
+              "settings": {
+                  "type": "cohSection",
+                  "title": "Text",
+                  "hideRowHeading": 0,
+                  "removePadding": 0,
+                  "columnCount": "1",
+                  "breakpointIcon": "",
+                  "breakpoints": false,
+                  "propertiesMenu": false,
+                  "disableScrollbar": true,
+                  "disableEllipsisMenu": true,
+                  "isOpen": true
+              }
+          },
+          "0946d83d-77e4-4970-8915-d932fca3bd8e": {
+              "settings": {
+                  "type": "cohWysiwyg",
+                  "title": "Text Editor",
+                  "schema": {
+                      "type": "object"
+                  },
+                  "machineName": "text-editor",
+                  "tooltipPlacement": "auto right"
+              },
+              "model": {
+                  "value": {
+                      "textFormat": "basic_html"
+                  }
+              }
+          }
+      },
+      "previewModel": {
+          "b6be7103-dde9-4b31-9d96-1fbe94b0cdf1": {},
+          "d298975a-0288-4545-ac4c-2ec837baade2": {},
+          "0946d83d-77e4-4970-8915-d932fca3bd8e": {}
+      },
+      "variableFields": {
+          "b6be7103-dde9-4b31-9d96-1fbe94b0cdf1": [],
+          "d298975a-0288-4545-ac4c-2ec837baade2": [],
+          "0946d83d-77e4-4970-8915-d932fca3bd8e": []
+      },
+      "disabledNodes": [],
+      "meta": {
+          "fieldHistory": [
+              {
+                  "uuid": "0946d83d-77e4-4970-8915-d932fca3bd8e",
+                  "type": "form-wysiwyg",
+                  "machineName": "text-editor"
+              }
+          ]
+      }
+  }
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: true
+selectable: true
+category: cpt_cat_test_category
+preview_image: ''
+has_quick_edit: null
+entity_type_access: {  }
+bundle_access: {  }
+twig_template: component--cohesion-cpt-text
+weight: 0
